@@ -10,7 +10,7 @@ public class Factorial {
     }
 
     public static void main(String[] args) {
-        int number = 9;
+        int number = 2;
         int result = factorial(number);
         System.out.println("Giai thua cua " + number + " la: " + result);
     }
